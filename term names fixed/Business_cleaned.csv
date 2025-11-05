@@ -1,0 +1,316 @@
+TERM,SCHOOL,DEPARTMENT,SUBJ,COURSE,SECTION,CRN,TITLE,TYPE,CREDITS,INSTRUCTOR NAME(S),SECT MAX,SECT ENRL,UG SECT ENRL,UP SECT ENRL,GR SECT ENRL,VS SECT ENRL,VU SECT ENRL,VG SECT ENRL,XLST GROUP,XLST MAX,XLST ENRL,TTL ENRL,TTL SEATS AVAIL,XLST WITH,XLST CRN,XLST LEAD DEPT,HAS_SYLLABUS
+spring 2025,School of Business,Business,BUSI,150,2,26867,ECONOMICS FOR BUSINESS,LEC,3,"Vidal, Jorge",45,4,3,0,0,0,1,0,,,,4,41,,,,N
+fall 2025,School of Business,Business,BUSI,215,1,15079,LEADING ACROSS SOCIAL DIVIDES,LEC,3,"Jun, Sora",45,15,15,0,0,0,0,0,,,,15,30,,,,Y
+fall 2021,School of Business,Business,BUSI,220,1,12271,LILIE DESIGN THINKING,LAB,3,"Randall, Angela S.",50,34,34,0,0,0,0,0,,,,34,16,,,,Y
+fall 2022,School of Business,Business,BUSI,220,1,11943,LILIE DESIGN THINKING,LAB,3,"Randall, Angela S.",40,30,28,0,0,0,0,2,,,,30,10,,,,Y
+fall 2025,School of Business,Business,BUSI,220,1,15076,INTRO TO DESIGN AND INNOVATION,LL,3,"Panahi, Hesam M.; Naids, Elena",40,39,38,0,0,0,1,0,,,,39,1,,,,Y
+spring 2022,School of Business,Business,BUSI,220,1,25650,LILIE DESIGN THINKING,LAB,3,"Randall, Angela S.",36,19,18,0,0,0,1,0,,,,19,17,,,,Y
+spring 2023,School of Business,Business,BUSI,220,2,24408,LILIE DESIGN THINKING,LL,3,"Randall, Angela S.",40,25,25,0,0,0,0,0,,,,25,15,,,,Y
+spring 2024,School of Business,Business,BUSI,220,1,24408,INTRO TO DESIGN AND INNOVATION,LL,3,"Panahi, Hesam M.",45,42,42,0,0,0,0,0,,,,42,3,,,,Y
+spring 2025,School of Business,Business,BUSI,220,1,24408,INTRO TO DESIGN AND INNOVATION,LL,3,"Panahi, Hesam M.",40,39,39,0,0,0,0,0,,,,39,1,,,,Y
+fall 2022,School of Business,Business,BUSI,221,1,14296,NEW ENTERPRISES,LL,3,"Panahi, Hesam M.",40,35,34,0,0,0,1,0,E1,40,35,35,5,ENGI 221 001,14297,Business,Y
+fall 2023,School of Business,Business,BUSI,221,1,14296,NEW ENTERPRISES: DISCOVERY,LL,3,"Panahi, Hesam M.",45,45,44,0,0,0,1,0,E1,45,48,48,-3,ENGI 221 001,14297,Business,Y
+fall 2024,School of Business,Business,BUSI,221,1,14296,NEW ENTERPRISES: DISCOVERY,LL,3,"Panahi, Hesam M.",40,36,35,0,0,0,0,1,E1,40,36,36,4,ENGI 221 001,14297,Business,Y
+fall 2024,School of Business,Business,BUSI,221,2,17629,NEW ENTERPRISES: DISCOVERY,LL,3,"Panahi, Hesam M.; Randolph, Sophia F.",30,19,18,0,0,0,1,0,A9,30,20,20,10,ENGI 221 002,17630,Business,Y
+fall 2025,School of Business,Business,BUSI,221,1,12696,NEW ENTERPRISES: DISCOVERY,LL,3,"Panahi, Hesam M.; Randolph, Sophia F.",40,24,24,0,0,0,0,0,E1,40,24,24,16,ENGI 221 001,12697,Business,Y
+fall 2025,School of Business,Business,BUSI,221,2,14315,NEW ENTERPRISES: DISCOVERY,LL,3,"Randolph, Sophia F.; Panahi, Hesam M.",40,27,27,0,0,0,0,0,A9,40,27,27,13,ENGI 221 002,14316,Business,Y
+spring 2022,School of Business,Business,BUSI,221,1,22835,NEW ENTERPRISES,LL,3,"Panahi, Hesam M.",40,37,37,0,0,0,0,0,H3,40,38,38,2,ENGI 221 001,22888,Business,Y
+spring 2023,School of Business,Business,BUSI,221,1,21971,NEW ENTERPRISES,LL,3,"Panahi, Hesam M.",40,35,35,0,0,0,0,0,H3,40,35,35,5,ENGI 221 001,21982,Business,Y
+spring 2025,School of Business,Business,BUSI,221,1,26810,NEW ENTERPRISES: DISCOVERY,LL,3,"Panahi, Hesam M.",40,34,33,0,0,0,0,1,F5,40,34,34,6,ENGI 221 001,26837,Business,Y
+spring 2025,School of Business,Business,BUSI,221,2,26811,NEW ENTERPRISES: DISCOVERY,LL,3,"Randolph, Sophia F.",40,12,10,0,0,0,2,0,H1,40,12,12,28,ENGI 221 002,26838,Business,Y
+fall 2022,School of Business,Business,BUSI,222,901,14381,TECH PRODUCT DESIGN & DEV,LEC,3,"Tyger, Carol",40,15,15,0,0,0,0,0,,,,15,25,,,,Y
+fall 2023,School of Business,Business,BUSI,222,1,16285,TECH PRODUCT DESIGN & DEV,LEC,3,"Chan, Bryant W.; Sklar, Michael",45,40,39,0,0,0,1,0,,,,40,5,,,,Y
+fall 2024,School of Business,Business,BUSI,222,1,16285,TECH PRODUCT DESIGN & DEV,LEC,3,"Sklar, Michael; Wulf, Adam M.",40,35,35,0,0,0,0,0,,,,35,5,,,,Y
+fall 2025,School of Business,Business,BUSI,222,1,13366,TECH PRODUCT DESIGN & DEV,LEC,3,"Massaro, Diana; Wulf, Adam M.",40,15,15,0,0,0,0,0,,,,15,25,,,,Y
+spring 2022,School of Business,Business,BUSI,222,901,26134,TECH PRODUCT DESIGN & DEV,LEC,3,"Tyger, Carol",36,30,29,0,0,0,0,1,,,,30,6,,,,Y
+fall 2021,School of Business,Business,BUSI,223,1,11636,MODELING FOR ENTREPRENEURS,LL,3,"Cheek, Danielle S.",45,37,37,0,0,0,0,0,,,,37,8,,,,Y
+fall 2022,School of Business,Business,BUSI,223,1,11432,MODELING FOR ENTREPRENEURS,LL,3,"Cheek, Danielle S.",45,31,30,0,0,0,1,0,,,,31,14,,,,Y
+fall 2023,School of Business,Business,BUSI,223,1,11432,MODELING FOR ENTREPRENEURS,LL,3,"Cheek, Danielle S.",55,47,47,0,0,0,0,0,,,,47,8,,,,Y
+fall 2024,School of Business,Business,BUSI,223,1,11432,MODELING FOR ENTREPRENEURS,LL,3,"Okorafor, Patrick H.",45,30,30,0,0,0,0,0,,,,30,15,,,,Y
+fall 2025,School of Business,Business,BUSI,223,1,11184,MODELING FOR ENTREPRENEURS,LL,3,"Ray, Patrick B.",45,39,39,0,0,0,0,0,,,,39,6,,,,Y
+fall 2023,School of Business,Business,BUSI,224,1,15807,BIAS AND MEDICAL DEVICE DESIGN,LEC,1,"Abidi, Sabia Z.; Panahi, Hesam M.",30,9,9,0,0,0,0,0,F1,30,19,19,11,BIOE 123 001,15685,Bioengineering,Y
+fall 2024,School of Business,Business,BUSI,224,1,15807,BIAS AND MEDICAL DEVICE DESIGN,LEC,1,"Abidi, Sabia Z.; Panahi, Hesam M.",30,13,13,0,0,0,0,0,F1,30,14,14,16,BIOE 123 001,15685,Bioengineering,Y
+fall 2025,School of Business,Business,BUSI,224,1,13201,BIAS AND MEDICAL DEVICE DESIGN,LEC,1,"Abidi, Sabia Z.; Panahi, Hesam M.",30,6,6,0,0,0,0,0,F1,30,15,15,15,BIOE 123 001,13172,Bioengineering,Y
+fall 2025,School of Business,Business,BUSI,233,1,15298,GENAI FOR BUSINESS,LEC,3,"Perley, Kathleen",65,52,48,0,0,0,0,4,,,,52,13,,,,Y
+spring 2025,School of Business,Business,BUSI,233,1,26868,GENAI FOR BUSINESS,LEC,3,"Perley, Kathleen",65,39,37,0,0,0,2,0,,,,39,26,,,,Y
+fall 2021,School of Business,Business,BUSI,296,1,10235,BUSINESS COMMUNICATION,LEC,3,"Russell, Jeffrey",65,59,59,0,0,0,0,0,,,,59,6,,,,Y
+fall 2021,School of Business,Business,BUSI,296,2,10236,BUSINESS COMMUNICATION,LEC,3,"Russell, Jeffrey",65,60,60,0,0,0,0,0,,,,60,5,,,,Y
+fall 2022,School of Business,Business,BUSI,296,1,10222,BUSINESS COMMUNICATION,LEC,3,"Russell, Jeffrey",65,62,61,0,0,0,1,0,,,,62,3,,,,Y
+fall 2022,School of Business,Business,BUSI,296,2,10223,BUSINESS COMMUNICATION,LEC,3,"Russell, Jeffrey",65,60,59,0,0,0,0,1,,,,60,5,,,,Y
+fall 2023,School of Business,Business,BUSI,296,1,10222,BUSINESS COMMUNICATION,LEC,3,"Taylor, Monique Y.",65,22,21,0,0,0,0,1,,,,22,43,,,,Y
+spring 2022,School of Business,Business,BUSI,296,1,20314,BUSINESS COMMUNICATION,LEC,3,"Russell, Jeffrey",60,38,35,0,0,0,2,1,,,,38,22,,,,Y
+spring 2022,School of Business,Business,BUSI,296,2,20207,BUSINESS COMMUNICATION,LEC,3,"Russell, Jeffrey",60,52,51,0,0,0,1,0,,,,52,8,,,,Y
+spring 2023,School of Business,Business,BUSI,296,1,20238,BUSINESS COMMUNICATION,LEC,3,"Russell, Jeffrey",60,16,12,0,0,0,2,2,,,,16,44,,,,Y
+spring 2023,School of Business,Business,BUSI,296,2,20156,BUSINESS COMMUNICATION,LEC,3,"Russell, Jeffrey",60,56,56,0,0,0,0,0,,,,56,4,,,,Y
+spring 2024,School of Business,Business,BUSI,296,1,20238,BUSINESS COMMUNICATION,LEC,3,"Russell, Jeffrey",65,31,29,0,0,0,0,2,,,,31,34,,,,Y
+spring 2024,School of Business,Business,BUSI,296,2,20156,BUSINESS COMMUNICATION,LEC,3,"Russell, Jeffrey",65,62,62,0,0,0,0,0,,,,62,3,,,,Y
+fall 2021,School of Business,Business,BUSI,305,1,11575,FINANCIAL ACCOUNTING,LEC,3,"Zeff, Stephen A.",60,45,45,0,0,0,0,0,,,,45,15,,,,Y
+fall 2021,School of Business,Business,BUSI,305,2,11576,FINANCIAL ACCOUNTING,LEC,3,"Zeff, Stephen A.",60,33,33,0,0,0,0,0,,,,33,27,,,,Y
+fall 2022,School of Business,Business,BUSI,305,1,11375,FINANCIAL ACCOUNTING,LEC,3,"Zeff, Stephen A.",65,38,38,0,0,0,0,0,,,,38,27,,,,Y
+fall 2022,School of Business,Business,BUSI,305,2,11376,FINANCIAL ACCOUNTING,LEC,3,"Peyravan, Leila",65,53,51,0,1,0,0,1,,,,53,12,,,,Y
+fall 2022,School of Business,Business,BUSI,305,3,14299,FINANCIAL ACCOUNTING,LEC,3,"Peyravan, Leila",65,60,59,0,0,0,1,0,,,,60,5,,,,Y
+fall 2023,School of Business,Business,BUSI,305,1,11375,FINANCIAL ACCOUNTING,LEC,3,"Zeff, Stephen A.",60,34,34,0,0,0,0,0,,,,34,26,,,,Y
+fall 2023,School of Business,Business,BUSI,305,3,14299,FINANCIAL ACCOUNTING,LEC,3,"Peyravan, Leila",65,58,58,0,0,0,0,0,,,,58,7,,,,Y
+fall 2023,School of Business,Business,BUSI,305,4,16017,FINANCIAL ACCOUNTING,LEC,3,"Peyravan, Leila",65,53,53,0,0,0,0,0,,,,53,12,,,,Y
+fall 2024,School of Business,Business,BUSI,305,1,11375,FINANCIAL ACCOUNTING,LEC,3,"Zeff, Stephen A.",65,18,18,0,0,0,0,0,,,,18,47,,,,Y
+fall 2024,School of Business,Business,BUSI,305,2,16017,FINANCIAL ACCOUNTING,LEC,3,"Peyravan, Leila",65,60,60,0,0,0,0,0,,,,60,5,,,,Y
+fall 2024,School of Business,Business,BUSI,305,3,14299,FINANCIAL ACCOUNTING,LEC,3,"Peyravan, Leila",65,61,61,0,0,0,0,0,,,,61,4,,,,Y
+fall 2025,School of Business,Business,BUSI,305,1,11130,FINANCIAL ACCOUNTING,LEC,3,"Zeff, Stephen A.",65,17,16,0,0,0,1,0,,,,17,48,,,,Y
+fall 2025,School of Business,Business,BUSI,305,2,13221,FINANCIAL ACCOUNTING,LEC,3,"Peyravan, Leila",65,61,60,0,0,0,1,0,,,,61,4,,,,Y
+fall 2025,School of Business,Business,BUSI,305,3,12699,FINANCIAL ACCOUNTING,LEC,3,"Peyravan, Leila",65,64,64,0,0,0,0,0,,,,64,1,,,,Y
+spring 2022,School of Business,Business,BUSI,305,1,20209,FINANCIAL ACCOUNTING,LEC,3,"Peyravan, Leila",65,53,52,0,0,0,1,0,,,,53,12,,,,Y
+spring 2022,School of Business,Business,BUSI,305,2,20210,FINANCIAL ACCOUNTING,LEC,3,"Peyravan, Leila",65,51,51,0,0,0,0,0,,,,51,14,,,,Y
+spring 2022,School of Business,Business,BUSI,305,3,24683,FINANCIAL ACCOUNTING,LEC,3,"Huber, Stefan J.",65,50,50,0,0,0,0,0,,,,50,15,,,,Y
+spring 2023,School of Business,Business,BUSI,305,1,20157,FINANCIAL ACCOUNTING,LEC,3,"Huber, Stefan J.",65,60,60,0,0,0,0,0,,,,60,5,,,,Y
+spring 2023,School of Business,Business,BUSI,305,2,20158,FINANCIAL ACCOUNTING,LEC,3,"Huber, Stefan J.",65,62,62,0,0,0,0,0,,,,62,3,,,,Y
+spring 2023,School of Business,Business,BUSI,305,3,22751,FINANCIAL ACCOUNTING,LEC,3,"Huber, Stefan J.",65,45,42,0,1,0,2,0,,,,45,20,,,,Y
+spring 2024,School of Business,Business,BUSI,305,1,20157,FINANCIAL ACCOUNTING,LEC,3,"Huber, Stefan J.",65,13,12,0,0,0,0,1,AD,65,57,57,8,BUSI 305 004,25582,Business,Y
+spring 2024,School of Business,Business,BUSI,305,2,20158,FINANCIAL ACCOUNTING,LEC,3,"Huber, Stefan J.",65,32,32,0,0,0,0,0,AE,65,58,58,7,BUSI 305 005,25583,Business,Y
+spring 2024,School of Business,Business,BUSI,305,3,22751,FINANCIAL ACCOUNTING,LEC,3,"Huber, Stefan J.",65,16,16,0,0,0,0,0,AF,65,60,60,5,BUSI 305 006,25584,Business,Y
+spring 2024,School of Business,Business,BUSI,305,4,25582,FINANCIAL ACCOUNTING,LEC,3,"Huber, Stefan J.",65,44,43,0,0,0,1,0,AD,65,57,57,8,BUSI 305 001,20157,Business,Y
+spring 2024,School of Business,Business,BUSI,305,5,25583,FINANCIAL ACCOUNTING,LEC,3,"Huber, Stefan J.",32,26,26,0,0,0,0,0,AE,65,58,58,7,BUSI 305 002,20158,Business,Y
+spring 2024,School of Business,Business,BUSI,305,6,25584,FINANCIAL ACCOUNTING,LEC,3,"Huber, Stefan J.",45,44,44,0,0,0,0,0,AF,65,60,60,5,BUSI 305 003,22751,Business,Y
+spring 2025,School of Business,Business,BUSI,305,1,20157,FINANCIAL ACCOUNTING,LEC,3,"Huber, Stefan J.",65,13,13,0,0,0,0,0,AD,65,61,61,4,BUSI 305 004,25582,Business,Y
+spring 2025,School of Business,Business,BUSI,305,2,20158,FINANCIAL ACCOUNTING,LEC,3,"Huber, Stefan J.",65,41,41,0,0,0,0,0,AE,65,57,57,8,BUSI 305 005,25583,Business,Y
+spring 2025,School of Business,Business,BUSI,305,3,22751,FINANCIAL ACCOUNTING,LEC,3,"Huber, Stefan J.",65,36,36,0,0,0,0,0,AF,65,59,59,6,BUSI 305 006,25584,Business,Y
+spring 2025,School of Business,Business,BUSI,305,4,25582,FINANCIAL ACCOUNTING,LEC,3,"Huber, Stefan J.",56,48,47,0,1,0,0,0,AD,65,61,61,4,BUSI 305 001,20157,Business,Y
+spring 2025,School of Business,Business,BUSI,305,5,25583,FINANCIAL ACCOUNTING,LEC,3,"Huber, Stefan J.",20,16,16,0,0,0,0,0,AE,65,57,57,8,BUSI 305 002,20158,Business,Y
+spring 2025,School of Business,Business,BUSI,305,6,25584,FINANCIAL ACCOUNTING,LEC,3,"Huber, Stefan J.",27,23,23,0,0,0,0,0,AF,65,59,59,6,BUSI 305 003,22751,Business,Y
+fall 2021,School of Business,Business,BUSI,310,1,10733,LEADING IN ORGANIZATIONS,LEC,3,"Mooijman, Marlon",100,97,97,0,0,0,0,0,,,,97,3,,,,Y
+fall 2021,School of Business,Business,BUSI,310,2,10342,LEADING IN ORGANIZATIONS,LEC,3,"Mooijman, Marlon",100,95,95,0,0,0,0,0,,,,95,5,,,,Y
+fall 2022,School of Business,Business,BUSI,310,1,10650,LEADING IN ORGANIZATIONS,LEC,3,"Mooijman, Marlon",100,99,98,0,0,0,1,0,,,,99,1,,,,Y
+fall 2022,School of Business,Business,BUSI,310,2,10310,LEADING IN ORGANIZATIONS,LEC,3,"Mooijman, Marlon",100,99,99,0,0,0,0,0,,,,99,1,,,,Y
+fall 2023,School of Business,Business,BUSI,310,1,10650,LEADING IN ORGANIZATIONS,LEC,3,"Mooijman, Marlon",65,64,64,0,0,0,0,0,,,,64,1,,,,Y
+fall 2023,School of Business,Business,BUSI,310,2,10310,LEADING IN ORGANIZATIONS,LEC,3,"Wisneski, John",100,97,97,0,0,0,0,0,,,,97,3,,,,Y
+fall 2023,School of Business,Business,BUSI,310,3,16383,LEADING IN ORGANIZATIONS,LEC,3,"Wisneski, John",100,91,91,0,0,0,0,0,,,,91,9,,,,Y
+fall 2024,School of Business,Business,BUSI,310,1,10650,LEADING IN ORGANIZATIONS,LEC,3,"Wisneski, John",100,48,47,0,0,0,0,1,AI,100,96,96,4,BUSI 310 004,17074,Business,Y
+fall 2024,School of Business,Business,BUSI,310,2,10310,LEADING IN ORGANIZATIONS,LEC,3,"Wisneski, John",100,12,12,0,0,0,0,0,AJ,100,81,81,19,BUSI 310 005,17075,Business,Y
+fall 2024,School of Business,Business,BUSI,310,3,16383,LEADING IN ORGANIZATIONS,LEC,3,"Wisneski, John",100,14,13,0,0,0,0,1,AA,100,59,59,41,BUSI 310 006,17056,Business,Y
+fall 2024,School of Business,Business,BUSI,310,4,17074,LEADING IN ORGANIZATIONS,LEC,3,"Wisneski, John",50,48,48,0,0,0,0,0,AI,100,96,96,4,BUSI 310 001,10650,Business,Y
+fall 2024,School of Business,Business,BUSI,310,5,17075,LEADING IN ORGANIZATIONS,LEC,3,"Wisneski, John",80,69,68,0,0,0,1,0,AJ,100,81,81,19,BUSI 310 002,10310,Business,Y
+fall 2024,School of Business,Business,BUSI,310,6,17056,LEADING IN ORGANIZATIONS,LEC,3,"Wisneski, John",80,45,44,0,0,0,1,0,AA,100,59,59,41,BUSI 310 003,16383,Business,Y
+fall 2025,School of Business,Business,BUSI,310,1,10519,LEADING IN ORGANIZATIONS,LEC,3,"Banks, Bernard B.",100,29,28,0,1,0,0,0,AI,100,76,76,24,BUSI 310 004,13966,Business,Y
+fall 2025,School of Business,Business,BUSI,310,2,10250,LEADING IN ORGANIZATIONS,LEC,3,"Mooijman, Marlon",100,32,32,0,0,0,0,0,AJ,100,99,99,1,BUSI 310 005,13967,Business,Y
+fall 2025,School of Business,Business,BUSI,310,3,13413,LEADING IN ORGANIZATIONS,LEC,3,"Mooijman, Marlon",100,5,5,0,0,0,0,0,AA,100,46,46,54,BUSI 310 006,13951,Business,Y
+fall 2025,School of Business,Business,BUSI,310,4,13966,LEADING IN ORGANIZATIONS,LEC,3,"Banks, Bernard B.",50,47,47,0,0,0,0,0,AI,100,76,76,24,BUSI 310 001,10519,Business,Y
+fall 2025,School of Business,Business,BUSI,310,5,13967,LEADING IN ORGANIZATIONS,LEC,3,"Mooijman, Marlon",80,67,67,0,0,0,0,0,AJ,100,99,99,1,BUSI 310 002,10250,Business,Y
+fall 2025,School of Business,Business,BUSI,310,6,13951,LEADING IN ORGANIZATIONS,LEC,3,"Mooijman, Marlon",80,41,40,0,0,0,1,0,AA,100,46,46,54,BUSI 310 003,13413,Business,Y
+spring 2022,School of Business,Business,BUSI,310,1,22281,LEADING IN ORGANIZATIONS,LEC,3,"Kim, Minjae",100,98,98,0,0,0,0,0,,,,98,2,,,,Y
+spring 2023,School of Business,Business,BUSI,310,1,21706,LEADING IN ORGANIZATIONS,LEC,3,"Kim, Minjae",65,61,60,0,0,0,1,0,,,,61,4,,,,Y
+spring 2023,School of Business,Business,BUSI,310,2,24279,LEADING IN ORGANIZATIONS,LEC,3,"Kim, Minjae",100,94,94,0,0,0,0,0,,,,94,6,,,,Y
+spring 2024,School of Business,Business,BUSI,310,1,21706,LEADING IN ORGANIZATIONS,LEC,3,"Kim, Minjae",105,99,97,0,0,0,0,2,,,,99,6,,,,N
+spring 2024,School of Business,Business,BUSI,310,2,24279,LEADING IN ORGANIZATIONS,LEC,3,"Kim, Minjae",110,98,98,0,0,0,0,0,,,,98,12,,,,N
+spring 2025,School of Business,Business,BUSI,310,1,21706,LEADING IN ORGANIZATIONS,LEC,3,"Kim, Minjae",65,56,56,0,0,0,0,0,,,,56,9,,,,Y
+spring 2025,School of Business,Business,BUSI,310,3,26813,LEADING IN ORGANIZATIONS,LEC,3,"Kim, Minjae",65,59,58,0,0,0,0,1,,,,59,6,,,,Y
+spring 2025,School of Business,Business,BUSI,310,4,26812,LEADING IN ORGANIZATIONS,LEC,3,"Banks, Bernard B.",45,11,10,0,0,0,1,0,,,,11,34,,,,Y
+fall 2021,School of Business,Business,BUSI,343,1,11577,FINANCIAL MANAGEMENT,LEC,3,"Butler, Alexander W.",45,32,32,0,0,0,0,0,,,,32,13,,,,Y
+fall 2021,School of Business,Business,BUSI,343,2,11578,FINANCIAL MANAGEMENT,LEC,3,"Butler, Alexander W.",45,27,27,0,0,0,0,0,,,,27,18,,,,Y
+fall 2022,School of Business,Business,BUSI,343,1,11377,FINANCIAL MANAGEMENT,LEC,3,"Butler, Alexander W.",60,52,52,0,0,0,0,0,,,,52,8,,,,Y
+fall 2022,School of Business,Business,BUSI,343,2,11378,FINANCIAL MANAGEMENT,LEC,3,"Butler, Alexander W.",60,37,36,0,0,0,1,0,,,,37,23,,,,Y
+fall 2023,School of Business,Business,BUSI,343,1,11377,FINANCIAL MANAGEMENT,LEC,3,"Butler, Alexander W.",65,57,57,0,0,0,0,0,,,,57,8,,,,Y
+fall 2023,School of Business,Business,BUSI,343,2,11378,FINANCIAL MANAGEMENT,LEC,3,"Butler, Alexander W.",65,62,62,0,0,0,0,0,,,,62,3,,,,Y
+fall 2023,School of Business,Business,BUSI,343,3,16083,FINANCIAL MANAGEMENT,LEC,3,"Dittmar, Robert",40,26,25,0,0,0,1,0,,,,26,14,,,,Y
+fall 2024,School of Business,Business,BUSI,343,1,11377,FINANCIAL MANAGEMENT,LEC,3,"Butler, Alexander W.",55,27,27,0,0,0,0,0,AK,55,50,50,5,BUSI 343 004,17076,Business,Y
+fall 2024,School of Business,Business,BUSI,343,2,11378,FINANCIAL MANAGEMENT,LEC,3,"Butler, Alexander W.",65,9,8,0,1,0,0,0,AL,65,31,31,34,BUSI 343 005,17077,Business,Y
+fall 2024,School of Business,Business,BUSI,343,3,16083,FINANCIAL MANAGEMENT,LEC,3,"Dittmar, Robert",65,12,12,0,0,0,0,0,AM,65,24,24,41,BUSI 343 006,17078,Business,Y
+fall 2024,School of Business,Business,BUSI,343,4,17076,FINANCIAL MANAGEMENT,LEC,3,"Butler, Alexander W.",27,23,22,0,1,0,0,0,AK,55,50,50,5,BUSI 343 001,11377,Business,Y
+fall 2024,School of Business,Business,BUSI,343,5,17077,FINANCIAL MANAGEMENT,LEC,3,"Butler, Alexander W.",65,22,22,0,0,0,0,0,AL,65,31,31,34,BUSI 343 002,11378,Business,Y
+fall 2024,School of Business,Business,BUSI,343,6,17078,FINANCIAL MANAGEMENT,LEC,3,"Dittmar, Robert",65,12,12,0,0,0,0,0,AM,65,24,24,41,BUSI 343 003,16083,Business,Y
+fall 2025,School of Business,Business,BUSI,343,1,11131,FINANCIAL MANAGEMENT,LEC,3,"Butler, Alexander W.",55,6,6,0,0,0,0,0,AK,55,11,11,44,BUSI 343 004,13968,Business,Y
+fall 2025,School of Business,Business,BUSI,343,2,11132,FINANCIAL MANAGEMENT,LEC,3,"Vidal, Jorge",65,20,20,0,0,0,0,0,AL,65,48,48,17,BUSI 343 005,13969,Business,Y
+fall 2025,School of Business,Business,BUSI,343,3,13254,FINANCIAL MANAGEMENT,LEC,3,"Dittmar, Robert",65,27,27,0,0,0,0,0,AM,65,34,34,31,BUSI 343 006,13970,Business,Y
+fall 2025,School of Business,Business,BUSI,343,4,13968,FINANCIAL MANAGEMENT,LEC,3,"Butler, Alexander W.",30,5,5,0,0,0,0,0,AK,55,11,11,44,BUSI 343 001,11131,Business,Y
+fall 2025,School of Business,Business,BUSI,343,5,13969,FINANCIAL MANAGEMENT,LEC,3,"Vidal, Jorge",30,28,28,0,0,0,0,0,AL,65,48,48,17,BUSI 343 002,11132,Business,Y
+fall 2025,School of Business,Business,BUSI,343,6,13970,FINANCIAL MANAGEMENT,LEC,3,"Dittmar, Robert",30,7,7,0,0,0,0,0,AM,65,34,34,31,BUSI 343 003,13254,Business,Y
+spring 2022,School of Business,Business,BUSI,343,1,25651,FINANCIAL MANAGEMENT,LEC,3,"Piqueira, Natalia S.",65,57,56,0,0,0,1,0,,,,57,8,,,,Y
+spring 2023,School of Business,Business,BUSI,343,1,23358,FINANCIAL MANAGEMENT,LEC,3,"Piqueira, Natalia S.",65,64,64,0,0,0,0,0,,,,64,1,,,,Y
+spring 2024,School of Business,Business,BUSI,343,1,23358,FINANCIAL MANAGEMENT,LEC,3,"Piqueira, Natalia S.",65,64,64,0,0,0,0,0,,,,64,1,,,,Y
+spring 2024,School of Business,Business,BUSI,343,2,25565,FINANCIAL MANAGEMENT,LEC,3,"Piqueira, Natalia S.",65,59,59,0,0,0,0,0,,,,59,6,,,,Y
+spring 2025,School of Business,Business,BUSI,343,1,23358,FINANCIAL MANAGEMENT,LEC,3,"Piqueira, Natalia S.",65,62,62,0,0,0,0,0,,,,62,3,,,,Y
+spring 2025,School of Business,Business,BUSI,343,2,25565,FINANCIAL MANAGEMENT,LEC,3,"Piqueira, Natalia S.",65,64,64,0,0,0,0,0,,,,64,1,,,,Y
+spring 2025,School of Business,Business,BUSI,343,3,26814,FINANCIAL MANAGEMENT,LEC,3,"Vidal, Jorge",65,18,18,0,0,0,0,0,,,,18,47,,,,N
+fall 2022,School of Business,Business,BUSI,360,1,14671,FOUNDER'S JOURNEY,LEC,1,"Judah, Kyle B.",20,19,19,0,0,0,0,0,,,,19,1,,,,Y
+fall 2023,School of Business,Business,BUSI,360,1,14671,FOUNDER'S JOURNEY,LEC,1,"Judah, Kyle B.",55,46,46,0,0,0,0,0,,,,46,9,,,,Y
+fall 2024,School of Business,Business,BUSI,360,1,14671,FOUNDER'S JOURNEY,LEC,1,"Judah, Kyle B.",75,65,64,0,0,0,1,0,,,,65,10,,,,Y
+fall 2025,School of Business,Business,BUSI,360,1,12754,FOUNDER'S JOURNEY,LEC,1,"Judah, Kyle B.",75,53,52,0,0,0,1,0,,,,53,22,,,,Y
+spring 2024,School of Business,Business,BUSI,360,1,25619,FOUNDER'S JOURNEY,LEC,1,"Judah, Kyle B.",45,37,37,0,0,0,0,0,0,70,56,56,14,MGMT 620 001,25865,,Y
+spring 2025,School of Business,Business,BUSI,360,1,25619,FOUNDER'S JOURNEY,LEC,1,"Judah, Kyle B.",75,65,64,0,0,0,0,1,,,,65,10,,,,Y
+fall 2024,School of Business,Business,BUSI,361,1,17619,ENTREPRENEURIAL COMMUNICATION,LAB,1,"Massaro, Diana",20,9,9,0,0,0,0,0,,,,9,11,,,,Y
+fall 2025,School of Business,Business,BUSI,361,1,14306,ENTREPRENEURIAL COMMUNICATION,LAB,1,"Massaro, Diana",30,25,25,0,0,0,0,0,,,,25,5,,,,Y
+spring 2022,School of Business,Business,BUSI,361,1,24319,ENTREPRENEURIAL COMMUNICATION,LAB,1,"O'Sullivan, Elizabeth C.",20,14,14,0,0,0,0,0,,,,14,6,,,,Y
+spring 2023,School of Business,Business,BUSI,361,1,22647,ENTREPRENEURIAL COMMUNICATION,LAB,1,"Vaughn, Ginger K.",20,11,11,0,0,0,0,0,,,,11,9,,,,Y
+spring 2024,School of Business,Business,BUSI,361,1,22647,ENTREPRENEURIAL COMMUNICATION,LAB,1,"Vaughn, Ginger K.",30,16,15,0,0,0,0,1,,,,16,14,,,,Y
+spring 2025,School of Business,Business,BUSI,361,1,22647,ENTREPRENEURIAL COMMUNICATION,LAB,1,"Massaro, Diana",30,20,20,0,0,0,0,0,,,,20,10,,,,Y
+spring 2025,School of Business,Business,BUSI,364,1,26815,INNOVATION FOR SOCIAL IMPACT,SEM,3,"Schuler, Douglas A.",30,15,15,0,0,0,0,0,G8,30,24,24,6,"GLHT 364 001, SOSC 364 001","26839, 26840",,Y
+fall 2024,School of Business,Business,BUSI,369,1,17034,NEW ENTERPRISES,LL,3,"Panahi, Hesam M.; Randolph, Sophia F.",40,40,37,0,0,0,1,2,,,,40,0,,,,Y
+fall 2025,School of Business,Business,BUSI,369,1,13933,NEW ENTERPRISES,LL,3,"Randolph, Sophia F.",40,40,39,0,0,0,1,0,,,,40,0,,,,Y
+spring 2024,School of Business,Business,BUSI,369,1,25570,NEW ENTERPRISES,LL,3,"Panahi, Hesam M.",45,38,38,0,0,0,0,0,,,,38,7,,,,Y
+spring 2025,School of Business,Business,BUSI,369,1,25570,NEW ENTERPRISES,LL,3,"Randolph, Sophia F.",40,22,22,0,0,0,0,0,,,,22,18,,,,Y
+spring 2025,School of Business,Business,BUSI,369,2,26816,NEW ENTERPRISES,LL,3,"Randolph, Sophia F.",40,14,14,0,0,0,0,0,,,,14,26,,,,Y
+spring 2024,School of Business,Business,BUSI,371,1,25586,PRODUCT DEVELOPMENT AND MGMT,LEC,3,"Prinsloo, Emily",65,13,12,0,0,0,1,0,,,,13,52,,,,Y
+spring 2025,School of Business,Business,BUSI,371,1,25586,PRODUCT DEVELOPMENT AND MGMT,LEC,3,"Prinsloo, Emily",45,19,16,0,0,0,3,0,,,,19,26,,,,Y
+fall 2024,School of Business,Business,BUSI,374,1,17047,OPERATIONS MANAGEMENT,LEC,3,"VanHorn, David A.",65,41,41,0,0,0,0,0,AH,65,53,53,12,BUSI 374 002,17073,Business,Y
+fall 2024,School of Business,Business,BUSI,374,2,17073,OPERATIONS MANAGEMENT,LEC,3,"VanHorn, David A.",65,12,12,0,0,0,0,0,AH,65,53,53,12,BUSI 374 001,17047,Business,Y
+fall 2025,School of Business,Business,BUSI,374,1,13945,OPERATIONS MANAGEMENT,LEC,3,"VanHorn, David A.",65,49,49,0,0,0,0,0,AH,65,61,61,4,BUSI 374 002,13965,Business,Y
+fall 2025,School of Business,Business,BUSI,374,2,13965,OPERATIONS MANAGEMENT,LEC,3,"VanHorn, David A.",30,12,12,0,0,0,0,0,AH,65,61,61,4,BUSI 374 001,13945,Business,Y
+spring 2023,School of Business,Business,BUSI,374,1,24275,OPERATIONS MANAGEMENT,LEC,3,"Kerimov, Suleyman",65,47,46,0,0,0,0,1,,,,47,18,,,,Y
+spring 2023,School of Business,Business,BUSI,374,2,24276,OPERATIONS MANAGEMENT,LEC,3,"Kerimov, Suleyman",65,42,41,0,0,0,1,0,,,,42,23,,,,Y
+spring 2024,School of Business,Business,BUSI,374,1,24275,OPERATIONS MANAGEMENT,LEC,3,"Kerimov, Suleyman",65,32,32,0,0,0,0,0,,,,32,33,,,,Y
+spring 2024,School of Business,Business,BUSI,374,2,24276,OPERATIONS MANAGEMENT,LEC,3,"Kerimov, Suleyman",65,63,63,0,0,0,0,0,,,,63,2,,,,Y
+spring 2025,School of Business,Business,BUSI,374,1,24275,OPERATIONS MANAGEMENT,LEC,3,"Kerimov, Suleyman",65,62,62,0,0,0,0,0,,,,62,3,,,,Y
+spring 2025,School of Business,Business,BUSI,374,2,24276,OPERATIONS MANAGEMENT,LEC,3,"Kerimov, Suleyman",65,22,22,0,0,0,0,0,,,,22,43,,,,Y
+fall 2022,School of Business,Business,BUSI,380,1,14300,MARKETING,LEC,3,"Porter, Constance E.",65,64,64,0,0,0,0,0,,,,64,1,,,,Y
+fall 2023,School of Business,Business,BUSI,380,1,14300,MARKETING,LEC,3,"Porter, Constance E.",65,64,64,0,0,0,0,0,,,,64,1,,,,Y
+fall 2024,School of Business,Business,BUSI,380,1,14300,MARKETING,LEC,3,"Zhang, Weiqing",65,65,65,0,0,0,0,0,,,,65,0,,,,Y
+fall 2024,School of Business,Business,BUSI,380,2,17035,MARKETING,LEC,3,"Zhang, Weiqing",65,45,45,0,0,0,0,0,,,,45,20,,,,Y
+fall 2025,School of Business,Business,BUSI,380,1,12700,MARKETING,LEC,3,"Zhang, Weiqing",65,65,65,0,0,0,0,0,,,,65,0,,,,Y
+fall 2025,School of Business,Business,BUSI,380,2,13934,MARKETING,LEC,3,"Zhang, Weiqing",65,62,61,0,0,0,1,0,,,,62,3,,,,Y
+spring 2022,School of Business,Business,BUSI,380,1,20229,MARKETING,LEC,3,"Chung, Jaeyeon",65,61,61,0,0,0,0,0,,,,61,4,,,,Y
+spring 2022,School of Business,Business,BUSI,380,2,20326,MARKETING,LEC,3,"Chung, Jaeyeon",65,65,65,0,0,0,0,0,,,,65,0,,,,Y
+spring 2023,School of Business,Business,BUSI,380,1,20172,MARKETING,LEC,3,"Chung, Jaeyeon",65,60,60,0,0,0,0,0,,,,60,5,,,,Y
+spring 2023,School of Business,Business,BUSI,380,2,20247,MARKETING,LEC,3,"Chung, Jaeyeon",65,54,54,0,0,0,0,0,,,,54,11,,,,Y
+spring 2024,School of Business,Business,BUSI,380,1,20172,MARKETING,LEC,3,"Chung, Jaeyeon",65,61,60,0,1,0,0,0,,,,61,4,,,,N
+spring 2024,School of Business,Business,BUSI,380,2,20247,MARKETING,LEC,3,"Chung, Jaeyeon",65,56,56,0,0,0,0,0,,,,56,9,,,,N
+spring 2025,School of Business,Business,BUSI,380,1,20172,MARKETING,LEC,3,"Chung, Jaeyeon",65,63,63,0,0,0,0,0,,,,63,2,,,,N
+spring 2025,School of Business,Business,BUSI,380,2,20247,MARKETING,LEC,3,"Chung, Jaeyeon",65,43,43,0,0,0,0,0,,,,43,22,,,,N
+fall 2021,School of Business,Business,BUSI,390,1,11933,STRATEGIC MANAGEMENT,SEM,3,"Piazza, Alessandro",65,44,44,0,0,0,0,0,,,,44,21,,,,Y
+fall 2022,School of Business,Business,BUSI,390,1,11683,STRATEGIC MANAGEMENT,SEM,3,"Piazza, Alessandro",65,62,62,0,0,0,0,0,,,,62,3,,,,Y
+fall 2023,School of Business,Business,BUSI,390,1,11683,STRATEGIC MANAGEMENT,SEM,3,"Piazza, Alessandro",65,63,63,0,0,0,0,0,,,,63,2,,,,Y
+fall 2024,School of Business,Business,BUSI,390,1,11683,STRATEGIC MANAGEMENT,SEM,3,"Piazza, Alessandro",130,106,104,0,1,0,1,0,AD,130,126,126,4,BUSI 390 002,17057,Business,Y
+fall 2024,School of Business,Business,BUSI,390,2,17057,STRATEGIC MANAGEMENT,SEM,3,"Piazza, Alessandro",21,20,19,0,0,0,1,0,AD,130,126,126,4,BUSI 390 001,11683,Business,Y
+fall 2025,School of Business,Business,BUSI,390,1,11346,STRATEGIC MANAGEMENT,SEM,3,"Piazza, Alessandro",130,88,87,0,1,0,0,0,AD,130,117,117,13,BUSI 390 002,13952,Business,Y
+fall 2025,School of Business,Business,BUSI,390,2,13952,STRATEGIC MANAGEMENT,SEM,3,"Piazza, Alessandro",30,29,29,0,0,0,0,0,AD,130,117,117,13,BUSI 390 001,11346,Business,Y
+spring 2022,School of Business,Business,BUSI,390,1,20648,STRATEGIC MANAGEMENT,SEM,3,"Odziemkowska, Katarzyna",65,29,28,0,0,0,1,0,,,,29,36,,,,Y
+spring 2022,School of Business,Business,BUSI,390,2,20649,STRATEGIC MANAGEMENT,SEM,3,"Odziemkowska, Katarzyna",50,47,47,0,0,0,0,0,,,,47,3,,,,Y
+spring 2023,School of Business,Business,BUSI,390,1,20494,STRATEGIC MANAGEMENT,SEM,3,"Pan Fang, Tommy",65,61,60,0,0,0,1,0,,,,61,4,,,,Y
+spring 2023,School of Business,Business,BUSI,390,2,20495,STRATEGIC MANAGEMENT,SEM,3,"Pan Fang, Tommy",65,67,67,0,0,0,0,0,,,,67,-2,,,,Y
+spring 2024,School of Business,Business,BUSI,390,1,20494,STRATEGIC MANAGEMENT,SEM,3,"Pan Fang, Tommy",65,25,25,0,0,0,0,0,AB,65,52,52,13,BUSI 390 003,25571,Business,Y
+spring 2024,School of Business,Business,BUSI,390,2,20495,STRATEGIC MANAGEMENT,SEM,3,"Pan Fang, Tommy",65,47,47,0,0,0,0,0,AC,65,61,61,4,BUSI 390 004,25572,Business,Y
+spring 2024,School of Business,Business,BUSI,390,3,25571,STRATEGIC MANAGEMENT,SEM,3,"Pan Fang, Tommy",40,27,27,0,0,0,0,0,AB,65,52,52,13,BUSI 390 001,20494,Business,Y
+spring 2024,School of Business,Business,BUSI,390,4,25572,STRATEGIC MANAGEMENT,SEM,3,"Pan Fang, Tommy",20,14,14,0,0,0,0,0,AC,65,61,61,4,BUSI 390 002,20495,Business,Y
+spring 2025,School of Business,Business,BUSI,390,1,20494,STRATEGIC MANAGEMENT,SEM,3,"Pan Fang, Tommy",65,39,37,0,0,0,2,0,AB,65,56,56,9,BUSI 390 003,25571,Business,Y
+spring 2025,School of Business,Business,BUSI,390,2,20495,STRATEGIC MANAGEMENT,SEM,3,"Pan Fang, Tommy",65,45,45,0,0,0,0,0,AC,65,61,61,4,BUSI 390 004,25572,Business,Y
+spring 2025,School of Business,Business,BUSI,390,3,25571,STRATEGIC MANAGEMENT,SEM,3,"Pan Fang, Tommy",20,17,17,0,0,0,0,0,AB,65,56,56,9,BUSI 390 001,20494,Business,Y
+spring 2025,School of Business,Business,BUSI,390,4,25572,STRATEGIC MANAGEMENT,SEM,3,"Pan Fang, Tommy",20,16,16,0,0,0,0,0,AC,65,61,61,4,BUSI 390 002,20495,Business,Y
+fall 2022,School of Business,Business,BUSI,395,1,14345,DATA ANALYTICS,LL,4,"Hamidieh, Kamal",20,19,19,0,0,0,0,0,MM,80,72,72,8,"BUSI 395 002, BUSI 395 003, BUSI 395 004","14344, 14391, 14892",Business,Y
+fall 2022,School of Business,Business,BUSI,395,2,14344,DATA ANALYTICS,LL,4,"Hamidieh, Kamal",20,19,19,0,0,0,0,0,MM,80,72,72,8,"BUSI 395 001, BUSI 395 003, BUSI 395 004","14345, 14391, 14892",Business,Y
+fall 2022,School of Business,Business,BUSI,395,3,14391,DATA ANALYTICS,LL,4,"Hamidieh, Kamal",20,17,17,0,0,0,0,0,MM,80,72,72,8,"BUSI 395 002, BUSI 395 001, BUSI 395 004","14344, 14345, 14892",Business,Y
+fall 2022,School of Business,Business,BUSI,395,4,14892,DATA ANALYTICS,LL,4,"Hamidieh, Kamal",20,17,17,0,0,0,0,0,MM,80,72,72,8,"BUSI 395 002, BUSI 395 001, BUSI 395 003","14344, 14345, 14391",Business,Y
+fall 2023,School of Business,Business,BUSI,395,1,14345,DATA ANALYTICS,LL,4,"Hamidieh, Kamal",25,21,21,0,0,0,0,0,MM,65,56,56,9,"BUSI 395 002, BUSI 395 003","14344, 14391",Business,Y
+fall 2023,School of Business,Business,BUSI,395,2,14344,DATA ANALYTICS,LL,4,"Hamidieh, Kamal",20,17,17,0,0,0,0,0,MM,65,56,56,9,"BUSI 395 001, BUSI 395 003","14345, 14391",Business,Y
+fall 2023,School of Business,Business,BUSI,395,3,14391,DATA ANALYTICS,LL,4,"Hamidieh, Kamal",20,18,18,0,0,0,0,0,MM,65,56,56,9,"BUSI 395 002, BUSI 395 001","14344, 14345",Business,Y
+fall 2024,School of Business,Business,BUSI,395,1,14345,DATA ANALYTICS,LL,4,"Liu, Yueyang",22,22,22,0,0,0,0,0,MM,65,63,63,2,"BUSI 395 002, BUSI 395 003","14344, 14391",Business,Y
+fall 2024,School of Business,Business,BUSI,395,2,14344,DATA ANALYTICS,LL,4,"Liu, Yueyang",22,23,23,0,0,0,0,0,MM,65,63,63,2,"BUSI 395 001, BUSI 395 003","14345, 14391",Business,Y
+fall 2024,School of Business,Business,BUSI,395,3,14391,DATA ANALYTICS,LL,4,"Liu, Yueyang",22,18,18,0,0,0,0,0,MM,65,63,63,2,"BUSI 395 002, BUSI 395 001","14344, 14345",Business,Y
+fall 2024,School of Business,Business,BUSI,395,4,17040,DATA ANALYTICS,LL,4,"Liu, Yueyang",22,20,20,0,0,0,0,0,NN,65,44,44,21,"BUSI 395 005, BUSI 395 006","17041, 17042",Business,Y
+fall 2024,School of Business,Business,BUSI,395,5,17041,DATA ANALYTICS,LL,4,"Liu, Yueyang",22,16,16,0,0,0,0,0,NN,65,44,44,21,"BUSI 395 004, BUSI 395 006","17040, 17042",Business,Y
+fall 2024,School of Business,Business,BUSI,395,6,17042,DATA ANALYTICS,LL,4,"Liu, Yueyang",22,8,8,0,0,0,0,0,NN,65,44,44,21,"BUSI 395 004, BUSI 395 005","17040, 17041",Business,Y
+fall 2025,School of Business,Business,BUSI,395,1,12705,DATA ANALYTICS,LL,4,"Liu, Yueyang",33,17,16,0,0,0,1,0,MM,65,25,25,40,BUSI 395 002,12704,Business,Y
+fall 2025,School of Business,Business,BUSI,395,2,12704,DATA ANALYTICS,LL,4,"Liu, Yueyang",32,8,8,0,0,0,0,0,MM,65,25,25,40,BUSI 395 001,12705,Business,Y
+fall 2025,School of Business,Business,BUSI,395,4,13939,DATA ANALYTICS,LL,4,"Liu, Yueyang",33,27,27,0,0,0,0,0,NN,65,39,39,26,BUSI 395 005,13940,Business,Y
+fall 2025,School of Business,Business,BUSI,395,5,13940,DATA ANALYTICS,LL,4,"Liu, Yueyang",32,12,12,0,0,0,0,0,NN,65,39,39,26,BUSI 395 004,13939,Business,Y
+spring 2023,School of Business,Business,BUSI,395,1,24387,DATA ANALYTICS,LL,4,"Hamidieh, Kamal",20,13,13,0,0,0,0,0,BA,60,31,31,29,"BUSI 395 002, BUSI 395 003","24388, 24389",Business,Y
+spring 2023,School of Business,Business,BUSI,395,2,24388,DATA ANALYTICS,LL,4,"Hamidieh, Kamal",20,18,18,0,0,0,0,0,BA,60,31,31,29,"BUSI 395 001, BUSI 395 003","24387, 24389",Business,Y
+spring 2023,School of Business,Business,BUSI,395,3,24389,DATA ANALYTICS,LL,4,"Hamidieh, Kamal",20,,,,,,,,BA,60,31,31,29,"BUSI 395 001, BUSI 395 002","24387, 24388",Business,Y
+spring 2023,School of Business,Business,BUSI,395,4,24390,DATA ANALYTICS,LL,4,"Hamidieh, Kamal",20,18,18,0,0,0,0,0,BB,60,33,33,27,"BUSI 395 005, BUSI 395 006","24391, 24392",Business,Y
+spring 2023,School of Business,Business,BUSI,395,5,24391,DATA ANALYTICS,LL,4,"Hamidieh, Kamal",20,9,9,0,0,0,0,0,BB,60,33,33,27,"BUSI 395 004, BUSI 395 006","24390, 24392",Business,Y
+spring 2023,School of Business,Business,BUSI,395,6,24392,DATA ANALYTICS,LL,4,"Hamidieh, Kamal",20,6,6,0,0,0,0,0,BB,60,33,33,27,"BUSI 395 004, BUSI 395 005","24390, 24391",Business,Y
+spring 2024,School of Business,Business,BUSI,395,1,24387,DATA ANALYTICS,LL,4,"Hamidieh, Kamal",20,19,19,0,0,0,0,0,BA,65,63,63,2,"BUSI 395 002, BUSI 395 003, BUSI 395 005","24388, 24389, 24391",Business,Y
+spring 2024,School of Business,Business,BUSI,395,2,24388,DATA ANALYTICS,LL,4,"Hamidieh, Kamal",19,19,19,0,0,0,0,0,BA,65,63,63,2,"BUSI 395 001, BUSI 395 003, BUSI 395 005","24387, 24389, 24391",Business,Y
+spring 2024,School of Business,Business,BUSI,395,3,24389,DATA ANALYTICS,LL,4,"Hamidieh, Kamal",13,13,13,0,0,0,0,0,BA,65,63,63,2,"BUSI 395 001, BUSI 395 002, BUSI 395 005","24387, 24388, 24391",Business,Y
+spring 2024,School of Business,Business,BUSI,395,5,24391,DATA ANALYTICS,LL,4,"Hamidieh, Kamal",13,12,12,0,0,0,0,0,BA,65,63,63,2,"BUSI 395 001, BUSI 395 002, BUSI 395 003","24387, 24388, 24389",Business,Y
+spring 2025,School of Business,Business,BUSI,395,1,24387,DATA ANALYTICS,LL,4,"Hamidieh, Kamal",35,7,7,0,0,0,0,0,BA,65,21,21,44,BUSI 395 002,24388,Business,Y
+spring 2025,School of Business,Business,BUSI,395,2,24388,DATA ANALYTICS,LL,4,"Hamidieh, Kamal",35,14,13,0,0,0,0,1,BA,65,21,21,44,BUSI 395 001,24387,Business,Y
+spring 2025,School of Business,Business,BUSI,395,3,24389,DATA ANALYTICS,LL,4,"Hamidieh, Kamal",35,34,34,0,0,0,0,0,BB,65,64,64,1,BUSI 395 004,24391,Business,Y
+spring 2025,School of Business,Business,BUSI,395,4,24391,DATA ANALYTICS,LL,4,"Hamidieh, Kamal",35,30,30,0,0,0,0,0,BB,65,64,64,1,BUSI 395 003,24389,Business,Y
+fall 2024,School of Business,Business,BUSI,396,1,17058,BUSINESS COMMUNICATION,LEC,3,"Russell, Jeffrey",65,38,37,0,0,0,0,1,AF,65,51,51,14,BUSI 396 003,17061,Business,Y
+fall 2024,School of Business,Business,BUSI,396,2,17059,BUSINESS COMMUNICATION,LEC,3,"Russell, Jeffrey",65,55,55,0,0,0,0,0,AG,65,63,63,2,BUSI 396 004,17062,Business,Y
+fall 2024,School of Business,Business,BUSI,396,3,17061,BUSINESS COMMUNICATION,LEC,3,"Russell, Jeffrey",25,13,13,0,0,0,0,0,AF,65,51,51,14,BUSI 396 001,17058,Business,Y
+fall 2024,School of Business,Business,BUSI,396,4,17062,BUSINESS COMMUNICATION,LEC,3,"Russell, Jeffrey",5,8,8,0,0,0,0,0,AG,65,63,63,2,BUSI 396 002,17059,Business,Y
+fall 2025,School of Business,Business,BUSI,396,1,13953,BUSINESS COMMUNICATION,LEC,3,"Russell, Jeffrey",65,42,42,0,0,0,0,0,AF,65,58,58,7,BUSI 396 003,13956,Business,Y
+fall 2025,School of Business,Business,BUSI,396,2,13954,BUSINESS COMMUNICATION,LEC,3,"Russell, Jeffrey",65,45,45,0,0,0,0,0,AG,65,62,62,3,BUSI 396 004,13957,Business,Y
+fall 2025,School of Business,Business,BUSI,396,3,13956,BUSINESS COMMUNICATION,LEC,3,"Russell, Jeffrey",30,16,16,0,0,0,0,0,AF,65,58,58,7,BUSI 396 001,13953,Business,Y
+fall 2025,School of Business,Business,BUSI,396,4,13957,BUSINESS COMMUNICATION,LEC,3,"Russell, Jeffrey",30,17,17,0,0,0,0,0,AG,65,62,62,3,BUSI 396 002,13954,Business,Y
+spring 2025,School of Business,Business,BUSI,396,1,26817,BUSINESS COMMUNICATION,LEC,3,"Russell, Jeffrey",65,24,23,0,1,0,0,0,,,,24,41,,,,Y
+spring 2025,School of Business,Business,BUSI,396,2,26818,BUSINESS COMMUNICATION,LEC,3,"Russell, Jeffrey",65,66,66,0,0,0,0,0,,,,66,-1,,,,Y
+fall 2022,School of Business,Business,BUSI,401,1,14303,FINANCIAL STATEMENT ANALYSIS,LL,4,"Akins, Brian K.",20,8,7,0,0,0,0,1,MN,40,23,23,17,BUSI 401 002,14304,Business,Y
+fall 2022,School of Business,Business,BUSI,401,2,14304,FINANCIAL STATEMENT ANALYSIS,LL,4,"Akins, Brian K.",20,15,15,0,0,0,0,0,MN,40,23,23,17,BUSI 401 001,14303,Business,Y
+fall 2023,School of Business,Business,BUSI,401,1,14303,FINANCIAL STATEMENT ANALYSIS,LEC,3,"Rountree, Brian R.",65,62,62,0,0,0,0,0,,,,62,3,,,,Y
+fall 2024,School of Business,Business,BUSI,401,1,14303,FINANCIAL STATEMENT ANALYSIS,LEC,3,"Rountree, Brian R.",65,54,53,0,0,0,1,0,,,,54,11,,,,Y
+fall 2024,School of Business,Business,BUSI,401,2,17036,FINANCIAL STATEMENT ANALYSIS,LEC,3,"Rountree, Brian R.",65,65,65,0,0,0,0,0,,,,65,0,,,,Y
+fall 2025,School of Business,Business,BUSI,401,1,12702,FINANCIAL STATEMENT ANALYSIS,LEC,3,"Rountree, Brian R.",65,62,61,0,0,0,1,0,,,,62,3,,,,Y
+fall 2025,School of Business,Business,BUSI,401,2,13935,FINANCIAL STATEMENT ANALYSIS,LEC,3,"Rountree, Brian R.",65,65,65,0,0,0,0,0,,,,65,0,,,,Y
+spring 2022,School of Business,Business,BUSI,405,1,20647,ISSUES IN FINANCIAL REPORTNG I,LEC,3,"Lansford, Benjamin N.",36,11,10,0,0,0,0,1,,,,11,25,,,,Y
+spring 2023,School of Business,Business,BUSI,405,1,20493,ISSUES IN FINANCIAL REPORTNG I,LEC,3,"Lansford, Benjamin N.",45,7,6,0,0,0,0,1,,,,7,38,,,,Y
+spring 2024,School of Business,Business,BUSI,405,1,20493,ISSUES IN FINANCIAL REPORTNG I,LEC,3,"Lansford, Benjamin N.",65,15,15,0,0,0,0,0,,,,15,50,,,,Y
+spring 2025,School of Business,Business,BUSI,405,1,20493,ISSUES IN FINANCIAL REPORTNG I,LEC,3,"Lansford, Benjamin N.",65,16,16,0,0,0,0,0,,,,16,49,,,,Y
+fall 2022,School of Business,Business,BUSI,420,1,14301,LEADERSHIP AND TEAMS,LL,4,"Miles, Jonathan E.",20,19,19,0,0,0,0,0,MO,40,38,38,2,BUSI 420 002,14346,Business,Y
+fall 2022,School of Business,Business,BUSI,420,2,14346,LEADERSHIP AND TEAMS,LL,4,"Miles, Jonathan E.",20,19,19,0,0,0,0,0,MO,40,38,38,2,BUSI 420 001,14301,Business,Y
+fall 2023,School of Business,Business,BUSI,420,1,14301,LEADERSHIP AND TEAMS,LEC,3,"Miles, Jonathan E.",65,65,65,0,0,0,0,0,,,,65,0,,,,Y
+fall 2024,School of Business,Business,BUSI,420,1,14301,LEADERSHIP AND TEAMS,LEC,3,"Miles, Jonathan E.",65,34,34,0,0,0,0,0,AE,65,56,56,9,BUSI 420 002,17060,Business,Y
+fall 2024,School of Business,Business,BUSI,420,2,17060,LEADERSHIP AND TEAMS,LEC,3,"Miles, Jonathan E.",65,22,22,0,0,0,0,0,AE,65,56,56,9,BUSI 420 001,14301,Business,Y
+fall 2025,School of Business,Business,BUSI,420,1,12701,LEADERSHIP AND TEAMS,LEC,3,"Miles, Jonathan E.",65,26,26,0,0,0,0,0,AE,65,34,34,31,BUSI 420 002,13955,Business,N
+fall 2025,School of Business,Business,BUSI,420,2,13955,LEADERSHIP AND TEAMS,LEC,3,"Miles, Jonathan E.",30,8,8,0,0,0,0,0,AE,65,34,34,31,BUSI 420 001,12701,Business,N
+spring 2024,School of Business,Business,BUSI,420,1,25587,LEADERSHIP AND TEAMS,LEC,3,"Miles, Jonathan E.",65,39,39,0,0,0,0,0,AG,65,65,65,0,BUSI 420 002,25594,Business,Y
+spring 2024,School of Business,Business,BUSI,420,2,25594,LEADERSHIP AND TEAMS,LEC,3,"Miles, Jonathan E.",30,26,26,0,0,0,0,0,AG,65,65,65,0,BUSI 420 001,25587,Business,Y
+spring 2025,School of Business,Business,BUSI,420,1,25587,LEADERSHIP AND TEAMS,LEC,3,"Miles, Jonathan E.",65,29,29,0,0,0,0,0,AG,65,55,55,10,BUSI 420 002,25594,Business,Y
+spring 2025,School of Business,Business,BUSI,420,2,25594,LEADERSHIP AND TEAMS,LEC,3,"Miles, Jonathan E.",42,26,25,0,0,0,0,1,AG,65,55,55,10,BUSI 420 001,25587,Business,Y
+fall 2021,School of Business,Business,BUSI,421,1,14405,"POWER, INFLUENCE & ORG CHANGE",LEC,3,"Yu, Siyu",36,26,26,0,0,0,0,0,,,,26,10,,,,Y
+fall 2022,School of Business,Business,BUSI,421,1,13486,"POWER, INFLUENCE & ORG CHANGE",LEC,3,"Yu, Siyu",65,48,48,0,0,0,0,0,,,,48,17,,,,Y
+spring 2024,School of Business,Business,BUSI,421,1,25566,"POWER, INFLUENCE & ORG CHANGE",LEC,3,"Miles, Jonathan E.",65,61,61,0,0,0,0,0,,,,61,4,,,,Y
+spring 2025,School of Business,Business,BUSI,421,1,25566,"POWER, INFLUENCE & ORG CHANGE",LEC,3,"Miles, Jonathan E.",65,51,51,0,0,0,0,0,,,,51,14,,,,Y
+fall 2025,School of Business,Business,BUSI,422,1,15077,NEGOTIATIONS & DECISION MAKING,LEC,3,"Wisneski, John",65,52,52,0,0,0,0,0,,,,52,13,,,,Y
+spring 2025,School of Business,Business,BUSI,422,1,26819,NEGOTIATIONS & DECISION MAKING,LEC,3,"Wisneski, John",65,64,64,0,0,0,0,0,,,,64,1,,,,Y
+fall 2025,School of Business,Business,BUSI,423,1,15117,EMOTIONAL INTELLIGENCE,LEC,3,"Wisneski, John",65,14,14,0,0,0,0,0,,,,14,51,,,,Y
+fall 2023,School of Business,Business,BUSI,430,1,15535,MANAGEMENT ACCOUNTING,LEC,3,"Lansford, Benjamin N.",65,61,61,0,0,0,0,0,,,,61,4,,,,Y
+fall 2024,School of Business,Business,BUSI,430,1,15535,MANAGEMENT ACCOUNTING,LEC,3,"Lansford, Benjamin N.",65,64,64,0,0,0,0,0,,,,64,1,,,,Y
+fall 2025,School of Business,Business,BUSI,430,1,13123,MANAGEMENT ACCOUNTING,LEC,3,"Lansford, Benjamin N.",65,56,56,0,0,0,0,0,,,,56,9,,,,Y
+spring 2023,School of Business,Business,BUSI,430,1,24280,MANAGEMENT ACCOUNTING,LEC,3,"Lansford, Benjamin N.",65,52,51,0,0,0,0,1,,,,52,13,,,,Y
+spring 2024,School of Business,Business,BUSI,430,1,24280,MANAGEMENT ACCOUNTING,LEC,3,"Lansford, Benjamin N.",65,59,59,0,0,0,0,0,,,,59,6,,,,Y
+spring 2025,School of Business,Business,BUSI,430,1,24280,MANAGEMENT ACCOUNTING,LEC,3,"Lansford, Benjamin N.",65,61,61,0,0,0,0,0,,,,61,4,,,,Y
+spring 2024,School of Business,Business,BUSI,431,1,25567,ADVANCED STRATEGIC MANAGEMENT,LEC,3,"Jue-Rajasingh, Diana",65,45,45,0,0,0,0,0,,,,45,20,,,,Y
+spring 2025,School of Business,Business,BUSI,431,1,25567,ADVANCED STRATEGIC MANAGEMENT,LEC,3,"Jue-Rajasingh, Diana",65,33,33,0,0,0,0,0,,,,33,32,,,,Y
+spring 2022,School of Business,Business,BUSI,432,1,25652,BUSINESS AND SOCIETY,LEC,3,"Windsor, Duane",36,14,14,0,0,0,0,0,,,,14,22,,,,Y
+spring 2023,School of Business,Business,BUSI,432,1,23359,BUSINESS AND SOCIETY,LEC,3,"Windsor, Duane",65,16,15,0,0,0,0,1,,,,16,49,,,,Y
+spring 2024,School of Business,Business,BUSI,432,1,23359,BUSINESS AND SOCIETY,LEC,3,"Windsor, Duane",65,37,37,0,0,0,0,0,,,,37,28,,,,Y
+spring 2025,School of Business,Business,BUSI,432,1,23359,BUSINESS AND SOCIETY,LEC,3,"Windsor, Duane",65,42,42,0,0,0,0,0,,,,42,23,,,,Y
+fall 2021,School of Business,Business,BUSI,440,1,11635,AUDITING,LEC,3,"Drakey, Kelly M.",25,8,8,0,0,0,0,0,,,,8,17,,,,Y
+fall 2023,School of Business,Business,BUSI,440,1,15536,AUDITING,LEC,3,"Drakey, Kelly M.",65,8,7,0,0,0,1,0,,,,8,57,,,,Y
+fall 2024,School of Business,Business,BUSI,440,1,15536,AUDITING,LEC,3,"Drakey, Kelly M.",65,16,15,0,1,0,0,0,,,,16,49,,,,Y
+fall 2025,School of Business,Business,BUSI,440,1,13124,AUDITING,LEC,3,"Drakey, Kelly M.",65,12,11,0,1,0,0,0,,,,12,53,,,,Y
+spring 2023,School of Business,Business,BUSI,447,1,24393,ADVANCED CORPORATE FINANCE,LL,4,"Grullon, Gustavo",20,15,15,0,0,0,0,0,BC,40,26,26,14,BUSI 447 002,24394,Business,Y
+spring 2023,School of Business,Business,BUSI,447,2,24394,ADVANCED CORPORATE FINANCE,LL,4,"Grullon, Gustavo",20,11,11,0,0,0,0,0,BC,40,26,26,14,BUSI 447 001,24393,Business,Y
+spring 2024,School of Business,Business,BUSI,447,1,25568,ADVANCED CORPORATE FINANCE,LEC,3,"Grullon, Gustavo",65,65,65,0,0,0,0,0,,,,65,0,,,,Y
+spring 2025,School of Business,Business,BUSI,447,1,25568,ADVANCED CORPORATE FINANCE,LEC,3,"Barry, John",65,64,64,0,0,0,0,0,,,,64,1,,,,Y
+spring 2025,School of Business,Business,BUSI,447,2,26820,ADVANCED CORPORATE FINANCE,LEC,3,"Barry, John",65,55,55,0,0,0,0,0,,,,55,10,,,,Y
+spring 2023,School of Business,Business,BUSI,448,1,24277,INVESTMENTS,LEC,3,"Crotty, Kevin P.",65,28,28,0,0,0,0,0,,,,28,37,,,,Y
+spring 2024,School of Business,Business,BUSI,448,1,24277,INVESTMENTS,LEC,3,"Crotty, Kevin P.",65,64,64,0,0,0,0,0,,,,64,1,,,,Y
+spring 2025,School of Business,Business,BUSI,448,1,24277,INVESTMENTS,LEC,3,"Crotty, Kevin P.",65,65,65,0,0,0,0,0,,,,65,0,,,,Y
+spring 2025,School of Business,Business,BUSI,448,2,26821,INVESTMENTS,LEC,3,"Crotty, Kevin P.",65,46,46,0,0,0,0,0,,,,46,19,,,,Y
+spring 2024,School of Business,Business,BUSI,449,1,25861,DATA-DRIVEN INVESTMENTS LAB,LL,3,"Back, Kerry E.; Crotty, Kevin P.",20,2,2,0,0,0,0,0,,,,2,18,,,,Y
+fall 2021,School of Business,Business,BUSI,450,1,14371,DERIVATIVES,LEC,3,"Xing, Yuhang",8,5,5,0,0,0,0,0,,,,5,3,,,,Y
+fall 2022,School of Business,Business,BUSI,450,1,13453,DERIVATIVES,LEC,3,"Xing, Yuhang",45,19,19,0,0,0,0,0,,,,19,26,,,,Y
+fall 2023,School of Business,Business,BUSI,450,1,13453,DERIVATIVES,LEC,3,"Xing, Yuhang",65,55,54,0,0,0,1,0,,,,55,10,,,,Y
+fall 2024,School of Business,Business,BUSI,450,1,13453,DERIVATIVES,LEC,3,"Xing, Yuhang",65,62,62,0,0,0,0,0,,,,62,3,,,,Y
+fall 2024,School of Business,Business,BUSI,450,2,17037,DERIVATIVES,LEC,3,"Xing, Yuhang",65,55,55,0,0,0,0,0,,,,55,10,,,,Y
+fall 2025,School of Business,Business,BUSI,450,1,12407,DERIVATIVES,LEC,3,"Xing, Yuhang",65,62,61,0,0,0,1,0,,,,62,3,,,,Y
+fall 2025,School of Business,Business,BUSI,450,2,13936,DERIVATIVES,LEC,3,"Xing, Yuhang",65,51,51,0,0,0,0,0,,,,51,14,,,,Y
+fall 2021,School of Business,Business,BUSI,461,1,12273,FINANCING THE STARTUP VENTURE,LEC,3,"Judah, Kyle B.",50,43,40,0,0,0,1,2,,,,43,7,,,,N
+fall 2022,School of Business,Business,BUSI,461,1,11945,FINANCING THE STARTUP VENTURE,LEC,3,"Franklin, Robert M.; Ioffe, Yelena",45,25,25,0,0,0,0,0,,,,25,20,,,,Y
+fall 2023,School of Business,Business,BUSI,461,1,11945,FINANCING THE STARTUP VENTURE,LEC,3,"Nicholson, Andrew J.",45,40,40,0,0,0,0,0,,,,40,5,,,,Y
+fall 2024,School of Business,Business,BUSI,461,1,11945,FINANCING THE STARTUP VENTURE,LEC,3,"Ellis, Zachary; Lewis, Samantha J.",45,30,28,0,0,0,2,0,,,,30,15,,,,Y
+fall 2025,School of Business,Business,BUSI,461,1,11547,FINANCING THE STARTUP VENTURE,LEC,3,"Ellis, Zachary; Randolph, Sophia F.",45,29,28,0,0,0,1,0,,,,29,16,,,,Y
+spring 2022,School of Business,Business,BUSI,463,1,22280,ENTREPRENEURIAL STRATEGY,SEM,3,"Hochberg, Yael V.; Ioffe, Yelena",65,49,49,0,0,0,0,0,,,,49,16,,,,Y
+spring 2023,School of Business,Business,BUSI,463,1,21705,ENTREPRENEURIAL STRATEGY,SEM,3,"Panahi, Hesam M.; Ioffe, Yelena; Judah, Kyle B.",45,34,34,0,0,0,0,0,,,,34,11,,,,Y
+spring 2024,School of Business,Business,BUSI,463,1,21705,ENTREPRENEURIAL STRATEGY,SEM,3,"Tonar, Remington J.",45,44,44,0,0,0,0,0,,,,44,1,,,,Y
+spring 2025,School of Business,Business,BUSI,463,1,21705,ENTREPRENEURIAL STRATEGY,SEM,3,"Tonar, Remington J.",45,42,42,0,0,0,0,0,,,,42,3,,,,Y
+fall 2021,School of Business,Business,BUSI,464,1,14654,SOCIAL ENTREPRENEURSHIP,SEM,3,"Schuler, Douglas A.",65,13,13,0,0,0,0,0,B9,65,16,16,49,"GLHT 464 001, SOSC 464 001","14733, 14734",Business,Y
+spring 2023,School of Business,Business,BUSI,464,1,24278,SOCIAL ENTREPRENEURSHIP,SEM,3,"Schuler, Douglas A.",45,5,5,0,0,0,0,0,D1,45,6,6,39,"GLHT 464 001, SOSC 464 001","24293, 24294",Business,Y
+spring 2022,School of Business,Business,BUSI,465,1,23039,STUDENT VENTURE FUND,LL,3,"Cohen, James H.; Poag, Daniel M.",20,13,13,0,0,0,0,0,4A,45,36,36,9,MGMT 740 001,23076,Business,Y
+spring 2023,School of Business,Business,BUSI,465,1,22041,STUDENT VENTURE FUND,LL,3,"Cohen, James H.; Poag, Daniel M.",35,14,14,0,0,0,0,0,4A,45,39,39,6,MGMT 740 001,22048,Business,Y
+spring 2024,School of Business,Business,BUSI,465,1,22041,STUDENT VENTURE FUND,LL,3,"Cohen, James H.; Poag, Daniel M.",25,13,13,0,0,0,0,0,4A,45,25,25,20,MGMT 740 001,22048,Business,Y
+spring 2025,School of Business,Business,BUSI,465,1,22041,STUDENT VENTURE FUND,LL,3,"Cohen, James H.; Poag, Daniel M.",25,10,10,0,0,0,0,0,4A,45,18,18,27,MGMT 740 001,22048,Business,Y
+spring 2025,School of Business,Business,BUSI,475,1,26869,REAL ESTATE FINANCE,LEC,3,"Johnson, Stephanie G.",45,15,15,0,0,0,0,0,,,,15,30,,,,Y
+spring 2023,School of Business,Business,BUSI,480,1,24292,MARKETING ANALYTICS,LEC,3,"Lee, Jung Youn",20,8,7,0,0,0,1,0,,,,8,12,,,,Y
+spring 2024,School of Business,Business,BUSI,480,1,24292,MARKETING ANALYTICS,LEC,3,"Lee, Jung Youn",65,23,23,0,0,0,0,0,,,,23,42,,,,Y
+spring 2025,School of Business,Business,BUSI,480,1,24292,MARKETING ANALYTICS,LEC,3,"Lee, Jung Youn",65,23,22,0,0,0,1,0,,,,23,42,,,,Y
