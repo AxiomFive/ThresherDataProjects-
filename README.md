@@ -1,0 +1,1 @@
+Thresher_registrar.py utilizes the .csv files to analyze the average class maximum and class enrollments, the .rmd file obtains individual linear regression lines for each of the humanities' departments.
